@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Subhapriyam Dash</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-- 👋 Hi, I’m @SUBHAPRIYAM DASH
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN skack
-- 📫 How to reach me **subhapriyamdash@gmail.com*
+- 👋 Hi, I’m @SUBHAPRIYAM DASH<br>
+- 👀 I’m interested in Web Development<br>
+- 🌱 I’m currently learning MERN skack<br>
+- 📫 How to reach me **subhapriyamdash@gmail.com*<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nonsense_felo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nonsense_felo" height="30" width="40" /></a>
