@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SUBHAPRIYAM-dev
+- 👋 Hi, I’m @SUBHAPRIYAM DASH
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN skack
 
