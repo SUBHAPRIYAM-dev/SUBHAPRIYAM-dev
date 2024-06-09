@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Subhapriyam Dash</h1>
+<h1 align="center">Hii 👋, I'm Subhapriyam Dash</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 - 👋 Hi, I’m @SUBHAPRIYAM DASH<br>
 - 👀 I’m interested in Web Development<br>
