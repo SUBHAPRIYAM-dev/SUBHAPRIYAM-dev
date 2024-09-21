@@ -1,15 +1,28 @@
-<h1 align="center">Hii 👋, I'm Subhapriyam Dash</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-- 👋 Hi, I’m @SUBHAPRIYAM DASH<br>
-- 👀 I’m interested in Web Development<br>
-- 🌱 I’m currently learning MERN skack<br>
-- 📫 How to reach me **subhapriyamdash@gmail.com*<br>
+<h1 align="center">Hello World 👋, I'm SUBHAPRIYAM DASH</h1>
+<h3 align="center">A enthusiastic MERN stack web developer with extensive knowledge of various libraries and frameworks.</h3>
+
+<p align="center"> 
+  <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<br>
+ </p>
+
+- 🔭 I’m currently working on **e-commerce application for an apparel store using PHP (backend) and React (frontend)**
+
+- 🌱 I’m currently emphasizing on **MERN Stack**
+
+- 👨‍💻 All of my projects are available at **[https://github.com/SUBHAPRIYAM-dev](https://github.com/SUBHAPRIYAM-dev?tab=repositories)**
+
+- 📫 How to reach me **subhapriyamdash@gmail.com or +91-8342857504**
+
+- ⚡ Fun fact : **My hobby is creating websites, always aiming to improve each one over the previous.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nonsense_felo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nonsense_felo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/subhapriyam-dash-b77184230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subhapriyam-dash-b77184230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/subhapriyam.dash.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/subhapriyam.dash.5" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nonsense_felo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nonsense_felo/" height="30" width="40" /></a>
+<a href="https://x.com/nonsense_felo?s=08" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nonsense_felo" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/subhapriyam-dash-b77184230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
+  <a href="https://www.instagram.com/subhapriyam._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
