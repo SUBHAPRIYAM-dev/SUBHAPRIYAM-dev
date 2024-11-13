@@ -2,7 +2,7 @@
 <h3 align="center">A enthusiastic MERN stack web developer with extensive knowledge of various libraries and frameworks.</h3>
 
 <p align="center"> 
-  <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+  <img src="https://komarev.com/ghpvc/?username=hi-kartik2004&label=Profile%20views&color=0e75b6&style=flat" alt="SUBHAPRIYAM-dev" />
 <br>
  </p>
 
