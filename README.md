@@ -5,7 +5,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 <h3 align="center">A enthusiastic MERN stack web developer with extensive knowledge of various libraries and frameworks.</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=hi-kartik2004&label=Profile%20views&color=0e75b6&style=flat" alt="SUBHAPRIYAM-dev" />
+   <img alt="Coder GIF" height=250 width=500 src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e473h5yr0j9es61duizkzgisg81zsztr0rizevqpy7i&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 <br>
  </p>
 
