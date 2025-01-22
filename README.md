@@ -31,7 +31,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,css,html,php,mysql,git,github,bootstrap,windows,postman,react,vscode,netlify,node" />
+    <img src="https://skillicons.dev/icons?i=js,css,html,php,mysql,git,github,bootstrap,windows,postman,react,vscode,netlify,nodejs" />
   </a>
 </p>
 	
