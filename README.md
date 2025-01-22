@@ -39,11 +39,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 <br>
 <br>
 
-<img
-     width=100%
-src="https://github-readme-streak-stats.herokuapp.com?user=SUBHAPRIYAM-dev&theme=great-gatsby">
-</p>
-
+# 📊 GitHub Stats:
 <img
      width=100%
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHAPRIYAM-dev&layout=compact&theme=great-gatsby">
